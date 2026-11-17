@@ -1,6 +1,6 @@
 # Results | From Task Bloat to a 90-Day Strategy
 The question behind the project
-One of the hardest questions in Account Management is: How will you prioritize?
+## One of the hardest questions in Account Management is: How will you prioritize?
 
 I wanted to see whether Python could help answer that question for a newly assigned Ad-Tech Account Manager inheriting 50 advertiser accounts representing $215,850 in monthly advertising budgets. The challenge was not simply to identify the busiest accounts. It was to build a credible 90-day plan that balanced client relationships, campaign health, retention, and growth within a 40-hour workweek.
 
