@@ -1,6 +1,6 @@
 # Results: From Task Bloat to a 90-Day Account Management Strategy
 ## The problem I was trying to solve
-#vOne of the biggest questions in Account Management is "How will you prioritize?"
+# One of the biggest questions in Account Management is "How will you prioritize?"
 
 It's easy to answer in an interview with something like focus on the highest-value accounts and address urgent issues first. It's much harder when you actually inherit 50 advertiser accounts, all with different budgets, client relationships, campaign performance, open issues, and growth potential—and you still only have 40 hours in a week.
 
