@@ -58,6 +58,9 @@ The project demonstrates a repeatable decision framework, not a simulation of cl
 In practice, an AM would re-check CRM records, campaign performance, client feedback, and open issues each week before acting on the recommendations. The script also distinguishes advertiser budgets from actual billed spend and platform revenue.
 Takeaway
 The biggest improvement was not making the algorithm more complicated. It was changing what I asked it to produce.
+## Real-World Application
+
+In Account Management, it's easy to fall into reactive work—responding to whichever client issue, email, or request feels most urgent that day. This model provides a more structured alternative. By following a week-by-week roadmap, Account Managers can manage their portfolios proactively, balance immediate client needs with longer-term business goals, and make more intentional decisions about where to spend their time. The roadmap isn't meant to eliminate flexibility or human judgment, but to provide a clear direction so that daily demands don't overshadow retention, relationships, and growth.
 
 I started with a crowded task list and ended with a strategy that a manager could explain: understand the book, protect the business, then pursue qualified growth.
 
