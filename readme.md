@@ -71,6 +71,8 @@ The hardest part wasn't generating a list of priorities. It was making sure thos
 
 Early versions of the model were too focused on individual tasks. Later versions introduced strategic phases, but revealed other problems.
 
+Through eight iterations, I refined the model from an overloaded task scheduler into a more realistic 90-day strategic roadmap.
+
 Some accounts appeared too frequently simply because their baseline risk scores were high. Attempts to improve account rotation then created the opposite problem: smaller, lower-impact accounts sometimes received attention mainly because they hadn't appeared recently.
 
 Another challenge was continuity. If an Account Manager identifies promising expansion opportunities in Week 9, those opportunities shouldn't disappear in Week 10 just because the scoring weights change.
