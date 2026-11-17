@@ -6,7 +6,7 @@ It's easy to answer in an interview with something like focus on the highest-val
 
 I built this project to see whether Python could help structure that decision. The scenario is a newly assigned Ad-Tech Account Manager inheriting 50 accounts representing $215,850 in monthly advertiser budgets, with 13 weeks to establish control of the portfolio, protect retention, and identify credible opportunities for growth.
 
-This was different from my Monte Carlo project. A simulation is largely about defining inputs, modeling uncertainty, and interpreting numerical outputs. Here, the hard part was deciding what a useful output should look like when the subject is human judgment, competing responsibilities, and client relationships.
+This was different from my Monte Carlo projects. A simulation is largely about defining inputs, modeling uncertainty, and interpreting numerical outputs. Here, the hard part was deciding what a useful output should look like when the subject is human judgment, competing responsibilities, and client relationships.
 Where I started: a schedule that tried to do everything
 My first approach was to break Account Management into individual tasks and fit them into a 13-week, 40-hour schedule.
 
