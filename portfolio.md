@@ -1,4 +1,4 @@
-[PORTFOLIO.md](https://github.com/user-attachments/files/34992108/PORTFOLIO.md)
+
 # Portfolio Snapshot & Monthly Priorities
 
 > A companion reference to the 90-day Account Management roadmap. All 50 advertiser accounts are **synthetic**. The numbers are illustrative planning inputs, not client results.
