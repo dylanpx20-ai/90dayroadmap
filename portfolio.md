@@ -30,7 +30,7 @@ The scenario is a newly assigned Ad-Tech Account Manager responsible for **50 ac
 
 ## The underlying 50-account dataset
 
-The roadmap script embeds the full synthetic account dataset. The table below makes the main decision-making inputs visible without having to decode the Python data. For the complete original columns—including industry, contact cadence, CRM notes, and tenure—see [`synthetic_accounts.csv`](synthetic_accounts.csv).
+The roadmap script embeds the full synthetic account dataset. The table below makes the main decision-making inputs visible without having to decode the Python data. 
 
 **Reading the table:** “Spend” is illustrative current monthly spend in the synthetic baseline, **not observed or billed spend**. “Review” is an illustrative milestone date whose exact commercial type must be verified. “Issue” is a baseline flag, not evidence of a current unresolved live incident.
 
